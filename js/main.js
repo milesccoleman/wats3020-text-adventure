@@ -1,4 +1,4 @@
-/* JS for WATS 3020 Text Adventure */
+//Text Adventure
 let playerName = "";
 let choiceList = [];
 let currentPage = null;
